@@ -1,2 +1,2 @@
-# Course_summary
-All the lecture courses summary from my point of view
+# Online coure lectures
+My learning notes from various courses I have been taken since I started my data journey.
